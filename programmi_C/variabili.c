@@ -2,7 +2,7 @@
 
 int main(){
     
-    int pluto=0;
+    int pluto=300;
     int paperino=3;
 
     //somma 
@@ -15,16 +15,12 @@ int main(){
     int mul= pluto*paperino;
 
     //div
-    int sum= pluto/paperino;
+    int div= pluto/paperino;
 
     //modulo "aka il resto della divisione"
     int mod= pluto%paperino;
-
     
-
-
-
-
+    printf("la somma e' %x",sum);
 
     return 0;
 }

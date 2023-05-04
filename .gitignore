@@ -80,3 +80,5 @@ trec_eval
 !*.*
 
 .vscode/
+
+*.out
