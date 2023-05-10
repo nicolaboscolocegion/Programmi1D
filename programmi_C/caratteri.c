@@ -1,8 +1,8 @@
 #include<stdio.h>
-int main(int argc, char const *argv[])
+int main()
 {
-    char carattere=97;
-    printf("%c",carattere);
+    char carattere=98;
+    printf("%c\n",carattere);
     return 0;
 
     

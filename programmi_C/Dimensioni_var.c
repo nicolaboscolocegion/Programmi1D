@@ -18,7 +18,7 @@ int main(){
     lungo=INT_MAX;
     lungo++;
     printf("dimensione massima degli interi e': %d \n", INT_MAX);
-    printf("overflow %ld\n", lungo);
+    printf("overflow %d\n", intero);
 
 
     
