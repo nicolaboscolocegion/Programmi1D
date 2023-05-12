@@ -1,3 +1,4 @@
+//piccole operazioni con le variabili
 #include<stdio.h>
 
 int main(){

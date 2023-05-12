@@ -1,3 +1,4 @@
+//cast impliciti ed espliciti e i comportamenti di essi
 #include<stdio.h>
 
 int main(){
@@ -8,6 +9,7 @@ int main(){
    
     printf("intero vale %d\n", corto);
 
+    //cast implicito, sarebbe come scrivere : float virgola=(float)intera;
     float virgola=intera;
     printf("il float vale %f\n",virgola);
 

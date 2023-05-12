@@ -84,3 +84,5 @@ trec_eval
 *.out
 .DS_Store
 programmi_C/hello.dSYM/Contents/Info.plist
+
+*.exe

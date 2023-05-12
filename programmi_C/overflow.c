@@ -1,3 +1,4 @@
+//esempio di segmentation fault, il programa crasha per l'ecessivo utilizzo di memoria
 
 int rec();
 

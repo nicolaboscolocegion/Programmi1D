@@ -15,6 +15,7 @@ int main(){
     printf("dimensione del long %d byte\n", sizeof(long));
 
     intero=INT_MAX;
+    intero++;
     lungo=INT_MAX;
     lungo++;
     printf("dimensione massima degli interi e': %d \n", INT_MAX);
