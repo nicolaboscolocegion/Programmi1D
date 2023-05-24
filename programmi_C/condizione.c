@@ -24,6 +24,16 @@ int main(){
     => maggiore o uguale
     <= minore o uguale 
     */
+    int x =0;  
+    printf("inserisci un numero");
+    scanf("%d",&x);
+
+    if(x>10){
+        printf("x e' maggiore di 10");
+    }else if(x<5){
+        printf("x e'minore di 5");
+    }
+   
     
     return 0;
 }
