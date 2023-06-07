@@ -65,6 +65,7 @@ tomcat-logs/
 *.zip
 *.tar.gz
 *.rar
+*.class
 
 # Lucene
 experiment/
